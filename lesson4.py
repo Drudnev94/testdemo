@@ -34,3 +34,4 @@ print(text[::2])
 print(text[::-1])
 
 print(text.startswith("Второй"))
+lll = lll - lll
